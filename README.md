@@ -1,2 +1,2 @@
-# Project--1
-Python,Pandas &amp; Matplotlib
+# Project-1
+Python,Pandas and Matplotlib
